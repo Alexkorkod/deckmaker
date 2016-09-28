@@ -1,0 +1,1002 @@
+Maw:2.7
+Ephemeral Shroud:2.7
+Vale Hunter:2.1
+Manaforger:3.2
+Rust Crawler:3.8
+Healing Mystic:3.8
+Aethermaster:3.2
+Ghost Lynx:2.0
+Jaxi:1.4
+Wings Of Mechaz0r:3.8
+Rock Pulverizer:3.8
+Bluetip Scorpion:2.5
+Primus Fist:3.8
+Golem Metallurgist:3.8
+Piercing Mantis:2.7
+Skyrock Golem:2.2
+Azure Horn Shaman:3.8
+Flameblood Warlock:2.5
+Silvertongue Corsair:3.2
+Saberspine Tiger:2.33333333333
+Blaze Hound:3.53333333333
+Repulsor Beast:1.86666666667
+Bloodshard Golem:2.53333333333
+Sun Seer:3.13333333333
+Prismatic Illusionist:2.73333333333
+Alcuin Loremaster:2.0
+Crossbones:3.2
+Sworn Avenger:2.46666666667
+Venom Toth:3.2
+Chaos Elemental:3.93333333333
+Syvrel The Exile:2.86666666667
+Spelljammer:3.13333333333
+Void Hunter:2.66666666667
+Lady Locke:1.86666666667
+Songweaver:3.2
+Wind Runner:3.2
+Mogwai:2.73333333333
+Cannon Of Mechaz0r:1.86666666667
+Sword Of Mechaz0r:3.2
+Sojourner:3.26666666667
+Crimson Oculus:2.73333333333
+Putrid Dreadflayer:3.13333333333
+Golem Vanquisher:3.13333333333
+Sarlac The Eternal:1.26666666667
+Mirkblood Devourer:3.13333333333
+Wind Stopper:4.06666666667
+Sand Burrower:3.13333333333
+Fire Spitter:2.0
+Twilight Sorcerer:2.92
+Owlbeast Sage:3.2
+Lightbender:2.5
+Artifact Hunter:2.5
+Mindwarper:2.75
+Dioltas:3.0
+Hailstone Golem:2.8
+Moebius:3.25
+Purgatos, The Realmkeeper:2.95
+Emerald Rejuvenator:3.2
+Black Locust:1.65
+Chassis Of Mechaz0r:3.45
+Primus Shieldmaster:3.55
+Thorn Needler:2.7
+Young Flamewing:3.45
+Frostbone Naga:2.5
+Silhouette Tracer:3.2
+Brightmoss Golem:2.96
+Sworn Defender:3.48
+Dagger Kiri:3.24
+Dancing Blades:3.24
+Lux Ignis:2.52
+Ash Mephyt:1.92
+The High Hand:1.92
+Captain Hank Hart:2.6
+Zen'rui, The Blightspawned:2.4
+Firestarter:2.68
+Fireblazer:3.2
+Rogue Warden:2.4
+Stormmetal Golem:2.93333333333
+Serpenti:2.83333333333
+Jax Truesight:1.13333333333
+Deathblighter:2.06666666667
+First Sword Of Akrane:3.56666666667
+Eclipse:2.8
+Storm Aratha:2.83333333333
+Archon Spellbinder:3.56666666667
+Dragonbone Golem:3.14285714286
+Red Synja:3.2
+Pandora:3.05714285714
+Rook:2.42857142857
+Zurael, The Lifegiver:2.65714285714
+Paddo:3.57142857143
+Grailmaster:2.71428571429
+Whistling Blade:3.8
+Dark Nemesis:3.17142857143
+Khymera:3.425
+Sun Elemental:2.5
+Araki Headhunter:3.2
+Keeper Of The Vale:2.28
+White Widow:2.95
+Wings Of Paradise:3.2
+Astral Crusader:2.85714285714
+Bonereaper:3.06666666667
+Hollow Grovekeeper:2.28
+Tethermancer:3.0
+War Talon:3.0
+Sapphire Seer:1.86666666667
+Sunsteel Defender:2.75
+E'xun:2.42857142857
+Sunset Paragon:1.68
+Necroseer:2.8
+Bloodletter:2.86666666667
+Arrow Whistler:2.6
+Skywing:3.2
+Golden Justicator:3.24
+Unseven:2.6
+Diamond Golem:2.86666666667
+Abjudicator:2.0
+Bastion:3.0
+Alter Rexx:2.6
+Sworn Sister L'kian:2.6
+Shiro Puppydragon:3.8
+Grincher:2.8
+The Scientist:3.2
+Envybaer:3.16
+Ruby Rifter:2.86666666667
+Blood Taura:1.864
+Blistering Scorn:3.6
+Chakkram:3.2
+Amu:3.3
+Z0r:2.0
+Sol:1.4
+Yun:3.26666666667
+Ion:2.73333333333
+Hydrax:3.2
+Golden Mantella:2.66666666667
+Soboro:3.13333333333
+Zukong:3.6
+Gnasher:2.5
+Beastmaster:2.52
+Rawr:3.16
+Calculator:1.16
+Inquisitor Kron:3.24
+Silverbeak:2.8
+Wood-wen:2.7
+Elkowl:2.73333333333
+Grove Lion:2.66666666667
+Sphynx:3.45
+Blood Siren:3.2
+Darkspine Elemental:3.8
+Gloomchaser:2.7
+Shadow Watcher:1.86666666667
+Nightsorrow Assassin:1.53333333333
+Abyssal Juggernaut:2.5
+Bloodmoon Priestess:2.5
+Deepfire Devourer:3.2
+Shadowdancer:2.6
+Black Solus:3.48
+Reaper Of The Nine Moons:2.6
+Vorpal Reaver:3.2
+Spectral Revenant:2.71428571429
+Shadow Sister Kelaino:2.9
+Gor:1.4
+Ooz:4.3
+Blood Baronette:3.2
+Night Fiend:2.08
+Klaxon:3.2
+Arcane Devourer:2.71428571429
+Maw:2.7
+Ephemeral Shroud:2.7
+Vale Hunter:2.1
+Manaforger:3.2
+Rust Crawler:3.8
+Healing Mystic:3.8
+Aethermaster:3.2
+Ghost Lynx:2.0
+Jaxi:1.4
+Wings Of Mechaz0r:3.8
+Rock Pulverizer:3.8
+Bluetip Scorpion:2.5
+Primus Fist:3.8
+Golem Metallurgist:3.8
+Piercing Mantis:2.7
+Skyrock Golem:2.2
+Azure Horn Shaman:3.8
+Flameblood Warlock:2.5
+Silvertongue Corsair:3.2
+Saberspine Tiger:2.33333333333
+Blaze Hound:3.53333333333
+Repulsor Beast:1.86666666667
+Bloodshard Golem:2.53333333333
+Sun Seer:3.13333333333
+Prismatic Illusionist:2.73333333333
+Alcuin Loremaster:2.0
+Crossbones:3.2
+Sworn Avenger:2.46666666667
+Venom Toth:3.2
+Chaos Elemental:3.93333333333
+Syvrel The Exile:2.86666666667
+Spelljammer:3.13333333333
+Void Hunter:2.66666666667
+Lady Locke:1.86666666667
+Songweaver:3.2
+Wind Runner:3.2
+Mogwai:2.73333333333
+Cannon Of Mechaz0r:1.86666666667
+Sword Of Mechaz0r:3.2
+Sojourner:3.26666666667
+Crimson Oculus:2.73333333333
+Putrid Dreadflayer:3.13333333333
+Golem Vanquisher:3.13333333333
+Sarlac The Eternal:1.26666666667
+Mirkblood Devourer:3.13333333333
+Wind Stopper:4.06666666667
+Sand Burrower:3.13333333333
+Fire Spitter:2.0
+Twilight Sorcerer:2.92
+Owlbeast Sage:3.2
+Lightbender:2.5
+Artifact Hunter:2.5
+Mindwarper:2.75
+Dioltas:3.0
+Hailstone Golem:2.8
+Moebius:3.25
+Purgatos, The Realmkeeper:2.95
+Emerald Rejuvenator:3.2
+Black Locust:1.65
+Chassis Of Mechaz0r:3.45
+Primus Shieldmaster:3.55
+Thorn Needler:2.7
+Young Flamewing:3.45
+Frostbone Naga:2.5
+Silhouette Tracer:3.2
+Brightmoss Golem:2.96
+Sworn Defender:3.48
+Dagger Kiri:3.24
+Dancing Blades:3.24
+Lux Ignis:2.52
+Ash Mephyt:1.92
+The High Hand:1.92
+Captain Hank Hart:2.6
+Zen'rui, The Blightspawned:2.4
+Firestarter:2.68
+Fireblazer:3.2
+Rogue Warden:2.4
+Stormmetal Golem:2.93333333333
+Serpenti:2.83333333333
+Jax Truesight:1.13333333333
+Deathblighter:2.06666666667
+First Sword Of Akrane:3.56666666667
+Eclipse:2.8
+Storm Aratha:2.83333333333
+Archon Spellbinder:3.56666666667
+Dragonbone Golem:3.14285714286
+Red Synja:3.2
+Pandora:3.05714285714
+Rook:2.42857142857
+Zurael, The Lifegiver:2.65714285714
+Paddo:3.57142857143
+Grailmaster:2.71428571429
+Whistling Blade:3.8
+Dark Nemesis:3.17142857143
+Khymera:3.425
+Sun Elemental:2.5
+Araki Headhunter:3.2
+Keeper Of The Vale:2.28
+White Widow:2.95
+Wings Of Paradise:3.2
+Astral Crusader:2.85714285714
+Bonereaper:3.06666666667
+Hollow Grovekeeper:2.28
+Tethermancer:3.0
+War Talon:3.0
+Sapphire Seer:1.86666666667
+Sunsteel Defender:2.75
+E'xun:2.42857142857
+Sunset Paragon:1.68
+Necroseer:2.8
+Bloodletter:2.86666666667
+Arrow Whistler:2.6
+Skywing:3.2
+Golden Justicator:3.24
+Unseven:2.6
+Diamond Golem:2.86666666667
+Abjudicator:2.0
+Bastion:3.0
+Alter Rexx:2.6
+Sworn Sister L'kian:2.6
+Shiro Puppydragon:3.8
+Grincher:2.8
+The Scientist:3.2
+Envybaer:3.16
+Ruby Rifter:2.86666666667
+Blood Taura:1.864
+Blistering Scorn:3.6
+Chakkram:3.2
+Amu:3.3
+Z0r:2.0
+Sol:1.4
+Yun:3.26666666667
+Ion:2.73333333333
+Hydrax:3.2
+Golden Mantella:2.66666666667
+Soboro:3.13333333333
+Zukong:3.6
+Gnasher:2.5
+Beastmaster:2.52
+Rawr:3.16
+Calculator:1.16
+Inquisitor Kron:3.24
+Silverbeak:2.8
+Wood-wen:2.7
+Elkowl:2.73333333333
+Grove Lion:2.66666666667
+Sphynx:3.45
+Windblade Adept:3.8
+Sunstone Templar:3.8
+Lightchaser:3.2
+Azurite Lion:3.8
+Silverguard Knight:3.26666666667
+Arclyte Sentinel:3.13333333333
+Lysian Brawler:3.2
+Suntide Maiden:3.55
+Sunriser:2.95
+Second Sun:2.92
+Ironcliffe Guardian:3.88
+Elyx Stormblade:3.56666666667
+Grandmaster Z'ir:3.77142857143
+Sun Sister Sterope:3.2
+Fiz:4.3
+Sun Wisp:2.0
+Radiant Dragoon:3.6
+Sunforge Lancer:3.13333333333
+Solarius:1.9
+Maw:2.7
+Ephemeral Shroud:2.7
+Vale Hunter:2.1
+Manaforger:3.2
+Rust Crawler:3.8
+Healing Mystic:3.8
+Aethermaster:3.2
+Ghost Lynx:2.0
+Jaxi:1.4
+Wings Of Mechaz0r:3.8
+Rock Pulverizer:3.8
+Bluetip Scorpion:2.5
+Primus Fist:3.8
+Golem Metallurgist:3.8
+Piercing Mantis:2.7
+Skyrock Golem:2.2
+Azure Horn Shaman:3.8
+Flameblood Warlock:2.5
+Silvertongue Corsair:3.2
+Saberspine Tiger:2.33333333333
+Blaze Hound:3.53333333333
+Repulsor Beast:1.86666666667
+Bloodshard Golem:2.53333333333
+Sun Seer:3.13333333333
+Prismatic Illusionist:2.73333333333
+Alcuin Loremaster:2.0
+Crossbones:3.2
+Sworn Avenger:2.46666666667
+Venom Toth:3.2
+Chaos Elemental:3.93333333333
+Syvrel The Exile:2.86666666667
+Spelljammer:3.13333333333
+Void Hunter:2.66666666667
+Lady Locke:1.86666666667
+Songweaver:3.2
+Wind Runner:3.2
+Mogwai:2.73333333333
+Cannon Of Mechaz0r:1.86666666667
+Sword Of Mechaz0r:3.2
+Sojourner:3.26666666667
+Crimson Oculus:2.73333333333
+Putrid Dreadflayer:3.13333333333
+Golem Vanquisher:3.13333333333
+Sarlac The Eternal:1.26666666667
+Mirkblood Devourer:3.13333333333
+Wind Stopper:4.06666666667
+Sand Burrower:3.13333333333
+Fire Spitter:2.0
+Twilight Sorcerer:2.92
+Owlbeast Sage:3.2
+Lightbender:2.5
+Artifact Hunter:2.5
+Mindwarper:2.75
+Dioltas:3.0
+Hailstone Golem:2.8
+Moebius:3.25
+Purgatos, The Realmkeeper:2.95
+Emerald Rejuvenator:3.2
+Black Locust:1.65
+Chassis Of Mechaz0r:3.45
+Primus Shieldmaster:3.55
+Thorn Needler:2.7
+Young Flamewing:3.45
+Frostbone Naga:2.5
+Silhouette Tracer:3.2
+Brightmoss Golem:2.96
+Sworn Defender:3.48
+Dagger Kiri:3.24
+Dancing Blades:3.24
+Lux Ignis:2.52
+Ash Mephyt:1.92
+The High Hand:1.92
+Captain Hank Hart:2.6
+Zen'rui, The Blightspawned:2.4
+Firestarter:2.68
+Fireblazer:3.2
+Rogue Warden:2.4
+Stormmetal Golem:2.93333333333
+Serpenti:2.83333333333
+Jax Truesight:1.13333333333
+Deathblighter:2.06666666667
+First Sword Of Akrane:3.56666666667
+Eclipse:2.8
+Storm Aratha:2.83333333333
+Archon Spellbinder:3.56666666667
+Dragonbone Golem:3.14285714286
+Red Synja:3.2
+Pandora:3.05714285714
+Rook:2.42857142857
+Zurael, The Lifegiver:2.65714285714
+Paddo:3.57142857143
+Grailmaster:2.71428571429
+Whistling Blade:3.8
+Dark Nemesis:3.17142857143
+Khymera:3.425
+Sun Elemental:2.5
+Araki Headhunter:3.2
+Keeper Of The Vale:2.28
+White Widow:2.95
+Wings Of Paradise:3.2
+Astral Crusader:2.85714285714
+Bonereaper:3.06666666667
+Hollow Grovekeeper:2.28
+Tethermancer:3.0
+War Talon:3.0
+Sapphire Seer:1.86666666667
+Sunsteel Defender:2.75
+E'xun:2.42857142857
+Sunset Paragon:1.68
+Necroseer:2.8
+Bloodletter:2.86666666667
+Arrow Whistler:2.6
+Skywing:3.2
+Golden Justicator:3.24
+Unseven:2.6
+Diamond Golem:2.86666666667
+Abjudicator:2.0
+Bastion:3.0
+Alter Rexx:2.6
+Sworn Sister L'kian:2.6
+Shiro Puppydragon:3.8
+Grincher:2.8
+The Scientist:3.2
+Envybaer:3.16
+Ruby Rifter:2.86666666667
+Blood Taura:1.864
+Blistering Scorn:3.6
+Chakkram:3.2
+Amu:3.3
+Z0r:2.0
+Sol:1.4
+Yun:3.26666666667
+Ion:2.73333333333
+Hydrax:3.2
+Golden Mantella:2.66666666667
+Soboro:3.13333333333
+Zukong:3.6
+Gnasher:2.5
+Beastmaster:2.52
+Rawr:3.16
+Calculator:1.16
+Inquisitor Kron:3.24
+Silverbeak:2.8
+Wood-wen:2.7
+Elkowl:2.73333333333
+Grove Lion:2.66666666667
+Sphynx:3.45
+Kujata:2.7
+Young Silithar:3.8
+Earth Walker:3.2
+Phalanxar:3.0
+Primordial Gazer:1.86666666667
+Vindicator:2.46666666667
+Grimrock:2.95
+Elucidator:3.45
+Veteran Silithar:2.75
+Kolossus:2.84
+Spirit Harvester:3.2
+Makantor Warbeast:2.33333333333
+Unstable Leviathan:4.45714285714
+Silithar Elder:2.71428571429
+Earth Sister Taygete:2.95
+Gro:4.4
+Moloki Huntress:1.6
+Wild Inceptor:2.5
+Visionar:2.8
+Dreadnought:2.86666666667
+Mandrake:1.9
+Maw:2.7
+Ephemeral Shroud:2.7
+Vale Hunter:2.1
+Manaforger:3.2
+Rust Crawler:3.8
+Healing Mystic:3.8
+Aethermaster:3.2
+Ghost Lynx:2.0
+Jaxi:1.4
+Wings Of Mechaz0r:3.8
+Rock Pulverizer:3.8
+Bluetip Scorpion:2.5
+Primus Fist:3.8
+Golem Metallurgist:3.8
+Piercing Mantis:2.7
+Skyrock Golem:2.2
+Azure Horn Shaman:3.8
+Flameblood Warlock:2.5
+Silvertongue Corsair:3.2
+Saberspine Tiger:2.33333333333
+Blaze Hound:3.53333333333
+Repulsor Beast:1.86666666667
+Bloodshard Golem:2.53333333333
+Sun Seer:3.13333333333
+Prismatic Illusionist:2.73333333333
+Alcuin Loremaster:2.0
+Crossbones:3.2
+Sworn Avenger:2.46666666667
+Venom Toth:3.2
+Chaos Elemental:3.93333333333
+Syvrel The Exile:2.86666666667
+Spelljammer:3.13333333333
+Void Hunter:2.66666666667
+Lady Locke:1.86666666667
+Songweaver:3.2
+Wind Runner:3.2
+Mogwai:2.73333333333
+Cannon Of Mechaz0r:1.86666666667
+Sword Of Mechaz0r:3.2
+Sojourner:3.26666666667
+Crimson Oculus:2.73333333333
+Putrid Dreadflayer:3.13333333333
+Golem Vanquisher:3.13333333333
+Sarlac The Eternal:1.26666666667
+Mirkblood Devourer:3.13333333333
+Wind Stopper:4.06666666667
+Sand Burrower:3.13333333333
+Fire Spitter:2.0
+Twilight Sorcerer:2.92
+Owlbeast Sage:3.2
+Lightbender:2.5
+Artifact Hunter:2.5
+Mindwarper:2.75
+Dioltas:3.0
+Hailstone Golem:2.8
+Moebius:3.25
+Purgatos, The Realmkeeper:2.95
+Emerald Rejuvenator:3.2
+Black Locust:1.65
+Chassis Of Mechaz0r:3.45
+Primus Shieldmaster:3.55
+Thorn Needler:2.7
+Young Flamewing:3.45
+Frostbone Naga:2.5
+Silhouette Tracer:3.2
+Brightmoss Golem:2.96
+Sworn Defender:3.48
+Dagger Kiri:3.24
+Dancing Blades:3.24
+Lux Ignis:2.52
+Ash Mephyt:1.92
+The High Hand:1.92
+Captain Hank Hart:2.6
+Zen'rui, The Blightspawned:2.4
+Firestarter:2.68
+Fireblazer:3.2
+Rogue Warden:2.4
+Stormmetal Golem:2.93333333333
+Serpenti:2.83333333333
+Jax Truesight:1.13333333333
+Deathblighter:2.06666666667
+First Sword Of Akrane:3.56666666667
+Eclipse:2.8
+Storm Aratha:2.83333333333
+Archon Spellbinder:3.56666666667
+Dragonbone Golem:3.14285714286
+Red Synja:3.2
+Pandora:3.05714285714
+Rook:2.42857142857
+Zurael, The Lifegiver:2.65714285714
+Paddo:3.57142857143
+Grailmaster:2.71428571429
+Whistling Blade:3.8
+Dark Nemesis:3.17142857143
+Khymera:3.425
+Sun Elemental:2.5
+Araki Headhunter:3.2
+Keeper Of The Vale:2.28
+White Widow:2.95
+Wings Of Paradise:3.2
+Astral Crusader:2.85714285714
+Bonereaper:3.06666666667
+Hollow Grovekeeper:2.28
+Tethermancer:3.0
+War Talon:3.0
+Sapphire Seer:1.86666666667
+Sunsteel Defender:2.75
+E'xun:2.42857142857
+Sunset Paragon:1.68
+Necroseer:2.8
+Bloodletter:2.86666666667
+Arrow Whistler:2.6
+Skywing:3.2
+Golden Justicator:3.24
+Unseven:2.6
+Diamond Golem:2.86666666667
+Abjudicator:2.0
+Bastion:3.0
+Alter Rexx:2.6
+Sworn Sister L'kian:2.6
+Shiro Puppydragon:3.8
+Grincher:2.8
+The Scientist:3.2
+Envybaer:3.16
+Ruby Rifter:2.86666666667
+Blood Taura:1.864
+Blistering Scorn:3.6
+Chakkram:3.2
+Amu:3.3
+Z0r:2.0
+Sol:1.4
+Yun:3.26666666667
+Ion:2.73333333333
+Hydrax:3.2
+Golden Mantella:2.66666666667
+Soboro:3.13333333333
+Zukong:3.6
+Gnasher:2.5
+Beastmaster:2.52
+Rawr:3.16
+Calculator:1.16
+Inquisitor Kron:3.24
+Silverbeak:2.8
+Wood-wen:2.7
+Elkowl:2.73333333333
+Grove Lion:2.66666666667
+Sphynx:3.45
+Kaido Assassin:3.8
+Chakri Avatar:2.1
+Tusk Boar:3.8
+Gore Horn:3.2
+Jade Monk:3.53333333333
+Celestial Phantom:3.26666666667
+Widowmaker:2.73333333333
+Four Winds Magi:3.2
+Keshrai Fanblade:3.0
+Scarlet Viper:2.52
+Hamon Bladeseeker:4.52
+Lantern Fox:3.13333333333
+Storm Kage:3.42857142857
+Storm Sister Alkyone:3.25
+Xho:3.8
+Ki Beholder:2.33333333333
+Battlle Panddo:3.13333333333
+Onyx Jaguar:2.08
+Grandmaster Zendo:2.86666666667
+Maw:2.7
+Ephemeral Shroud:2.7
+Vale Hunter:2.1
+Manaforger:3.2
+Rust Crawler:3.8
+Healing Mystic:3.8
+Aethermaster:3.2
+Ghost Lynx:2.0
+Jaxi:1.4
+Wings Of Mechaz0r:3.8
+Rock Pulverizer:3.8
+Bluetip Scorpion:2.5
+Primus Fist:3.8
+Golem Metallurgist:3.8
+Piercing Mantis:2.7
+Skyrock Golem:2.2
+Azure Horn Shaman:3.8
+Flameblood Warlock:2.5
+Silvertongue Corsair:3.2
+Saberspine Tiger:2.33333333333
+Blaze Hound:3.53333333333
+Repulsor Beast:1.86666666667
+Bloodshard Golem:2.53333333333
+Sun Seer:3.13333333333
+Prismatic Illusionist:2.73333333333
+Alcuin Loremaster:2.0
+Crossbones:3.2
+Sworn Avenger:2.46666666667
+Venom Toth:3.2
+Chaos Elemental:3.93333333333
+Syvrel The Exile:2.86666666667
+Spelljammer:3.13333333333
+Void Hunter:2.66666666667
+Lady Locke:1.86666666667
+Songweaver:3.2
+Wind Runner:3.2
+Mogwai:2.73333333333
+Cannon Of Mechaz0r:1.86666666667
+Sword Of Mechaz0r:3.2
+Sojourner:3.26666666667
+Crimson Oculus:2.73333333333
+Putrid Dreadflayer:3.13333333333
+Golem Vanquisher:3.13333333333
+Sarlac The Eternal:1.26666666667
+Mirkblood Devourer:3.13333333333
+Wind Stopper:4.06666666667
+Sand Burrower:3.13333333333
+Fire Spitter:2.0
+Twilight Sorcerer:2.92
+Owlbeast Sage:3.2
+Lightbender:2.5
+Artifact Hunter:2.5
+Mindwarper:2.75
+Dioltas:3.0
+Hailstone Golem:2.8
+Moebius:3.25
+Purgatos, The Realmkeeper:2.95
+Emerald Rejuvenator:3.2
+Black Locust:1.65
+Chassis Of Mechaz0r:3.45
+Primus Shieldmaster:3.55
+Thorn Needler:2.7
+Young Flamewing:3.45
+Frostbone Naga:2.5
+Silhouette Tracer:3.2
+Brightmoss Golem:2.96
+Sworn Defender:3.48
+Dagger Kiri:3.24
+Dancing Blades:3.24
+Lux Ignis:2.52
+Ash Mephyt:1.92
+The High Hand:1.92
+Captain Hank Hart:2.6
+Zen'rui, The Blightspawned:2.4
+Firestarter:2.68
+Fireblazer:3.2
+Rogue Warden:2.4
+Stormmetal Golem:2.93333333333
+Serpenti:2.83333333333
+Jax Truesight:1.13333333333
+Deathblighter:2.06666666667
+First Sword Of Akrane:3.56666666667
+Eclipse:2.8
+Storm Aratha:2.83333333333
+Archon Spellbinder:3.56666666667
+Dragonbone Golem:3.14285714286
+Red Synja:3.2
+Pandora:3.05714285714
+Rook:2.42857142857
+Zurael, The Lifegiver:2.65714285714
+Paddo:3.57142857143
+Grailmaster:2.71428571429
+Whistling Blade:3.8
+Dark Nemesis:3.17142857143
+Khymera:3.425
+Sun Elemental:2.5
+Araki Headhunter:3.2
+Keeper Of The Vale:2.28
+White Widow:2.95
+Wings Of Paradise:3.2
+Astral Crusader:2.85714285714
+Bonereaper:3.06666666667
+Hollow Grovekeeper:2.28
+Tethermancer:3.0
+War Talon:3.0
+Sapphire Seer:1.86666666667
+Sunsteel Defender:2.75
+E'xun:2.42857142857
+Sunset Paragon:1.68
+Necroseer:2.8
+Bloodletter:2.86666666667
+Arrow Whistler:2.6
+Skywing:3.2
+Golden Justicator:3.24
+Unseven:2.6
+Diamond Golem:2.86666666667
+Abjudicator:2.0
+Bastion:3.0
+Alter Rexx:2.6
+Sworn Sister L'kian:2.6
+Shiro Puppydragon:3.8
+Grincher:2.8
+The Scientist:3.2
+Envybaer:3.16
+Ruby Rifter:2.86666666667
+Blood Taura:1.864
+Blistering Scorn:3.6
+Chakkram:3.2
+Amu:3.3
+Z0r:2.0
+Sol:1.4
+Yun:3.26666666667
+Ion:2.73333333333
+Hydrax:3.2
+Golden Mantella:2.66666666667
+Soboro:3.13333333333
+Zukong:3.6
+Gnasher:2.5
+Beastmaster:2.52
+Rawr:3.16
+Calculator:1.16
+Inquisitor Kron:3.24
+Silverbeak:2.8
+Wood-wen:2.7
+Elkowl:2.73333333333
+Grove Lion:2.66666666667
+Sphynx:3.45
+Crystal Cloaker:3.8
+Borean Bear:3.2
+Hearth-sister:3.2
+Crystal Wisp:1.4
+Fenrir Warmaster:2.33333333333
+Wolfraven:2.86666666667
+Glacial Elemental:2.73333333333
+Razorback:2.75
+Voice Of The Wind:3.2
+Arctic Displacer:3.8
+Frosthorn Rhyno:3.4
+Draugar Lord:3.26666666667
+Ancient Grove:3.2
+Wind Sister Maia:3.5
+Icy:3.8
+Bur:4.3
+Snow Rippler:3.6
+Iceblade Dryad:3.2
+Huldra:2.28
+Frostiva:2.08
+Maw:2.7
+Ephemeral Shroud:2.7
+Vale Hunter:2.1
+Manaforger:3.2
+Rust Crawler:3.8
+Healing Mystic:3.8
+Aethermaster:3.2
+Ghost Lynx:2.0
+Jaxi:1.4
+Wings Of Mechaz0r:3.8
+Rock Pulverizer:3.8
+Bluetip Scorpion:2.5
+Primus Fist:3.8
+Golem Metallurgist:3.8
+Piercing Mantis:2.7
+Skyrock Golem:2.2
+Azure Horn Shaman:3.8
+Flameblood Warlock:2.5
+Silvertongue Corsair:3.2
+Saberspine Tiger:2.33333333333
+Blaze Hound:3.53333333333
+Repulsor Beast:1.86666666667
+Bloodshard Golem:2.53333333333
+Sun Seer:3.13333333333
+Prismatic Illusionist:2.73333333333
+Alcuin Loremaster:2.0
+Crossbones:3.2
+Sworn Avenger:2.46666666667
+Venom Toth:3.2
+Chaos Elemental:3.93333333333
+Syvrel The Exile:2.86666666667
+Spelljammer:3.13333333333
+Void Hunter:2.66666666667
+Lady Locke:1.86666666667
+Songweaver:3.2
+Wind Runner:3.2
+Mogwai:2.73333333333
+Cannon Of Mechaz0r:1.86666666667
+Sword Of Mechaz0r:3.2
+Sojourner:3.26666666667
+Crimson Oculus:2.73333333333
+Putrid Dreadflayer:3.13333333333
+Golem Vanquisher:3.13333333333
+Sarlac The Eternal:1.26666666667
+Mirkblood Devourer:3.13333333333
+Wind Stopper:4.06666666667
+Sand Burrower:3.13333333333
+Fire Spitter:2.0
+Twilight Sorcerer:2.92
+Owlbeast Sage:3.2
+Lightbender:2.5
+Artifact Hunter:2.5
+Mindwarper:2.75
+Dioltas:3.0
+Hailstone Golem:2.8
+Moebius:3.25
+Purgatos, The Realmkeeper:2.95
+Emerald Rejuvenator:3.2
+Black Locust:1.65
+Chassis Of Mechaz0r:3.45
+Primus Shieldmaster:3.55
+Thorn Needler:2.7
+Young Flamewing:3.45
+Frostbone Naga:2.5
+Silhouette Tracer:3.2
+Brightmoss Golem:2.96
+Sworn Defender:3.48
+Dagger Kiri:3.24
+Dancing Blades:3.24
+Lux Ignis:2.52
+Ash Mephyt:1.92
+The High Hand:1.92
+Captain Hank Hart:2.6
+Zen'rui, The Blightspawned:2.4
+Firestarter:2.68
+Fireblazer:3.2
+Rogue Warden:2.4
+Stormmetal Golem:2.93333333333
+Serpenti:2.83333333333
+Jax Truesight:1.13333333333
+Deathblighter:2.06666666667
+First Sword Of Akrane:3.56666666667
+Eclipse:2.8
+Storm Aratha:2.83333333333
+Archon Spellbinder:3.56666666667
+Dragonbone Golem:3.14285714286
+Red Synja:3.2
+Pandora:3.05714285714
+Rook:2.42857142857
+Zurael, The Lifegiver:2.65714285714
+Paddo:3.57142857143
+Grailmaster:2.71428571429
+Whistling Blade:3.8
+Dark Nemesis:3.17142857143
+Khymera:3.425
+Sun Elemental:2.5
+Araki Headhunter:3.2
+Keeper Of The Vale:2.28
+White Widow:2.95
+Wings Of Paradise:3.2
+Astral Crusader:2.85714285714
+Bonereaper:3.06666666667
+Hollow Grovekeeper:2.28
+Tethermancer:3.0
+War Talon:3.0
+Sapphire Seer:1.86666666667
+Sunsteel Defender:2.75
+E'xun:2.42857142857
+Sunset Paragon:1.68
+Necroseer:2.8
+Bloodletter:2.86666666667
+Arrow Whistler:2.6
+Skywing:3.2
+Golden Justicator:3.24
+Unseven:2.6
+Diamond Golem:2.86666666667
+Abjudicator:2.0
+Bastion:3.0
+Alter Rexx:2.6
+Sworn Sister L'kian:2.6
+Shiro Puppydragon:3.8
+Grincher:2.8
+The Scientist:3.2
+Envybaer:3.16
+Ruby Rifter:2.86666666667
+Blood Taura:1.864
+Blistering Scorn:3.6
+Chakkram:3.2
+Amu:3.3
+Z0r:2.0
+Sol:1.4
+Yun:3.26666666667
+Ion:2.73333333333
+Hydrax:3.2
+Golden Mantella:2.66666666667
+Soboro:3.13333333333
+Zukong:3.6
+Gnasher:2.5
+Beastmaster:2.52
+Rawr:3.16
+Calculator:1.16
+Inquisitor Kron:3.24
+Silverbeak:2.8
+Wood-wen:2.7
+Elkowl:2.73333333333
+Grove Lion:2.66666666667
+Sphynx:3.45
+Dunecaster:2.0
+Pyromancer:2.0
+Ethereal Obelysk:4.6
+Sand Howler:3.2
+Orb Weaver:1.86666666667
+Fireblaze Obelysk:3.4
+Windstorm Obelysk:3.4
+Imperial Mechanyst:3.53333333333
+Portal Guardian:3.4
+Wind Shrike:2.75
+Mirage Master:1.2
+Starfire Scarab:3.24
+Aymara Healer:2.66666666667
+Oserix:3.0
+Sand Sister Saon:2.95
+Pax:2.0
+Wind Slicer:3.8
+Falcius:3.2
+Allomancer:2.75
+Nimbus:3.4
+Pantheran:3.2

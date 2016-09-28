@@ -1,0 +1,30 @@
+{
+    "Hamon Bladeseeker": {
+        "mana_cost": 5, 
+        "value": 4.5200000000000005
+    }, 
+    "Fiz": {
+        "mana_cost": 2, 
+        "value": 4.3
+    }, 
+    "Gro": {
+        "mana_cost": 2, 
+        "value": 4.4
+    }, 
+    "Bur": {
+        "mana_cost": 2, 
+        "value": 4.3
+    }, 
+    "Ooz": {
+        "mana_cost": 2, 
+        "value": 4.3
+    }, 
+    "Ethereal Obelysk": {
+        "mana_cost": 2, 
+        "value": 4.6
+    }, 
+    "Unstable Leviathan": {
+        "mana_cost": 7, 
+        "value": 4.457142857142857
+    }
+}

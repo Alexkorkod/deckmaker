@@ -1,0 +1,6000 @@
+[
+    [
+        {
+            "description": "Opening Gambit: Summon all friendly Units that were destroyed on your opponent's last turn on a random space.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Zurael,-the-Lifegiver.png", 
+            "label": "Zurael, The Lifegiver", 
+            "attack": "4", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Opening Gambit: Summon all friendly Units that were destroyed on your opponent's last turn on a random space.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Zurael,-the-Lifegiver.png", 
+            "label": "Zurael, The Lifegiver", 
+            "attack": "4", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11055_idle.png", 
+            "label": "Silverbeak", 
+            "attack": "6", 
+            "health": "9", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11055_idle.png", 
+            "label": "Silverbeak", 
+            "attack": "6", 
+            "health": "9", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Whenever you summon a minion with Opening Gambit from your action bar, this minion gains +2 Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/ARAKI-HEADHUNTER.png", 
+            "label": "Araki Headhunter", 
+            "attack": "1", 
+            "health": "3", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Whenever you summon a minion with Opening Gambit from your action bar, this minion gains +2 Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/ARAKI-HEADHUNTER.png", 
+            "label": "Araki Headhunter", 
+            "attack": "1", 
+            "health": "3", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Whenever you summon a minion with Opening Gambit from your action bar, this minion gains +2 Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/ARAKI-HEADHUNTER.png", 
+            "label": "Araki Headhunter", 
+            "attack": "1", 
+            "health": "3", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Frenzy", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Piercing-Mantis.png", 
+            "label": "Piercing Mantis", 
+            "attack": "2", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Frenzy", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Piercing-Mantis.png", 
+            "label": "Piercing Mantis", 
+            "attack": "2", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Hailstone-Golem.png", 
+            "label": "Hailstone Golem", 
+            "attack": "4", 
+            "health": "6", 
+            "rarity": "", 
+            "type": "Golem", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Hailstone-Golem.png", 
+            "label": "Hailstone Golem", 
+            "attack": "4", 
+            "health": "6", 
+            "rarity": "", 
+            "type": "Golem", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "This unit takes no damage from generals.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Silvertongue-Corsair.png", 
+            "label": "Silvertongue Corsair", 
+            "attack": "3", 
+            "health": "3", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "This unit takes no damage from generals.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Silvertongue-Corsair.png", 
+            "label": "Silvertongue Corsair", 
+            "attack": "3", 
+            "health": "3", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "At the end of your turn, summon a 3/3 Spirit Wolf with a random ability on a nearby space.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Pandora.png", 
+            "label": "Pandora", 
+            "attack": "3", 
+            "health": "10", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "At the end of your turn, summon a 3/3 Spirit Wolf with a random ability on a nearby space.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Pandora.png", 
+            "label": "Pandora", 
+            "attack": "3", 
+            "health": "10", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Whenever this Unit deals damage, either deal 3 damage to the enemy General OR restore 3 Health to your General.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Purgatos,-The-Realmkeeper.png", 
+            "label": "Purgatos, The Realmkeeper", 
+            "attack": "3", 
+            "health": "4", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Whenever this Unit deals damage, either deal 3 damage to the enemy General OR restore 3 Health to your General.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Purgatos,-The-Realmkeeper.png", 
+            "label": "Purgatos, The Realmkeeper", 
+            "attack": "3", 
+            "health": "4", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Provoke Your other Golem Units have Provoke.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Golem-Vanquisher.png", 
+            "label": "Golem Vanquisher", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "legendary", 
+            "type": "Golem", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Provoke Your other Golem Units have Provoke.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Golem-Vanquisher.png", 
+            "label": "Golem Vanquisher", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "legendary", 
+            "type": "Golem", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, summon a random token Unit nearby.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Khymera.png", 
+            "label": "Khymera", 
+            "attack": "5", 
+            "health": "12", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "8"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, summon a random token Unit nearby.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Khymera.png", 
+            "label": "Khymera", 
+            "attack": "5", 
+            "health": "12", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "8"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, summon a random token Unit nearby.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Khymera.png", 
+            "label": "Khymera", 
+            "attack": "5", 
+            "health": "12", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "8"
+        }, 
+        {
+            "description": "Your General becomes 10/10.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bounded-Lifeforce.png", 
+            "label": "Bounded Lifeforce", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "epic", 
+            "type": "Spell", 
+            "mana_cost": "7", 
+            "target": "NO"
+        }, 
+        {
+            "description": "Your General becomes 10/10.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bounded-Lifeforce.png", 
+            "label": "Bounded Lifeforce", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "epic", 
+            "type": "Spell", 
+            "mana_cost": "7", 
+            "target": "NO"
+        }, 
+        {
+            "description": "Whenever a friendly Unit or your General takes damage, your General gains +2 Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Twin-Fang.png", 
+            "label": "Twin Fang", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "legendary", 
+            "type": "Artifact", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Whenever a friendly Unit or your General takes damage, your General gains +2 Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Twin-Fang.png", 
+            "label": "Twin Fang", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "legendary", 
+            "type": "Artifact", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Whenever a friendly Unit or your General takes damage, your General gains +2 Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Twin-Fang.png", 
+            "label": "Twin Fang", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "legendary", 
+            "type": "Artifact", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Your opponent's non-Bloodborn spells cost 1 more to cast.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Archon-Spellbinder.png", 
+            "label": "Archon Spellbinder", 
+            "attack": "7", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Arcanyst", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Your opponent's non-Bloodborn spells cost 1 more to cast.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Archon-Spellbinder.png", 
+            "label": "Archon Spellbinder", 
+            "attack": "7", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Arcanyst", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Your opponent's non-Bloodborn spells cost 1 more to cast.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Archon-Spellbinder.png", 
+            "label": "Archon Spellbinder", 
+            "attack": "7", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Arcanyst", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bloodshard-Golem.png", 
+            "label": "Bloodshard Golem", 
+            "attack": "4", 
+            "health": "3", 
+            "rarity": "", 
+            "type": "Golem", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bloodshard-Golem.png", 
+            "label": "Bloodshard Golem", 
+            "attack": "4", 
+            "health": "3", 
+            "rarity": "", 
+            "type": "Golem", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Whenever you cast a spell, summon a 1/1 Spellspark with Rush on a random nearby space.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Firestarter.png", 
+            "label": "Firestarter", 
+            "attack": "3", 
+            "health": "5", 
+            "rarity": "rare", 
+            "type": "Arcanyst", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Whenever you cast a spell, summon a 1/1 Spellspark with Rush on a random nearby space.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Firestarter.png", 
+            "label": "Firestarter", 
+            "attack": "3", 
+            "health": "5", 
+            "rarity": "rare", 
+            "type": "Arcanyst", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Whenever you cast a spell, summon a 1/1 Spellspark with Rush on a random nearby space.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Firestarter.png", 
+            "label": "Firestarter", 
+            "attack": "3", 
+            "health": "5", 
+            "rarity": "rare", 
+            "type": "Arcanyst", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Skyrock-Golem.png", 
+            "label": "Skyrock Golem", 
+            "attack": "3", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Golem", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Skyrock-Golem.png", 
+            "label": "Skyrock Golem", 
+            "attack": "3", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Golem", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Skyrock-Golem.png", 
+            "label": "Skyrock Golem", 
+            "attack": "3", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Golem", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Stormmetal-Golem.png", 
+            "label": "Stormmetal Golem", 
+            "attack": "8", 
+            "health": "8", 
+            "rarity": "", 
+            "type": "Golem", 
+            "mana_cost": "6"
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }, 
+        {
+            "avg_hand_size": 3.5752727272727274
+        }, 
+        {
+            "lost_mana": 20.515
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9, 
+                9, 
+                9
+            ]
+        }
+    ]
+]

@@ -1,0 +1,60 @@
+Average hand size: 2.29109090909
+Average lost mana per game (coeff-ed): 16.669
+Minions : 36, Spells : 3, Artefacts : 0
+Manacurve : [2, 3, 4, 5, 6]
+0:0
+1:0
+2://///5
+3://///////9
+4:////////8
+5://////6
+6:////////8
+7:///3
+8:0
+9:0
+
+Average hand size: 3.03427272727
+Average lost mana per game (coeff-ed): 18.63
+Minions : 37, Spells : 2, Artefacts : 0
+Manacurve : [2, 3, 4, 5, 6, 7, 8, 9]
+0:0
+1:0
+2:////////8
+3:////////8
+4:////////8
+5://////6
+6:///3
+7:////4
+8://2
+9:0
+
+Average hand size: 2.97963636364
+Average lost mana per game (coeff-ed): 17.763
+Minions : 35, Spells : 4, Artefacts : 0
+Manacurve : [2, 3, 4, 5, 6, 7, 8, 9, 9]
+0:0
+1:0
+2://////////10
+3://///////9
+4://////6
+5://///5
+6://2
+7:///////7
+8:0
+9:0
+
+Average hand size: 3.60127272727
+Average lost mana per game (coeff-ed): 22.166
+Minions : 36, Spells : 3, Artefacts : 0
+Manacurve : [2, 3, 4, 5, 6, 7, 8, 9, 9, 9, 9]
+0:0
+1:0
+2://///////9
+3:///////7
+4:////4
+5:///////7
+6://2
+7:////////8
+8:0
+9:0
+

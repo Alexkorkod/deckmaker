@@ -1,8 +1,140 @@
 [
     [
         {
+            "description": "Whenever this Unit takes damage, it deals that much damage to the enemy General.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Eclipse.png", 
+            "label": "Eclipse", 
+            "attack": "3", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Arcanyst", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, it deals that much damage to the enemy General.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Eclipse.png", 
+            "label": "Eclipse", 
+            "attack": "3", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Arcanyst", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, it deals that much damage to the enemy General.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Eclipse.png", 
+            "label": "Eclipse", 
+            "attack": "3", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Arcanyst", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Whenever your General takes damage, give this minion +2 Attack and draw a card.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_rubyrifter.png", 
+            "label": "Ruby Rifter", 
+            "attack": "4", 
+            "health": "6", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Whenever your General takes damage, give this minion +2 Attack and draw a card.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_rubyrifter.png", 
+            "label": "Ruby Rifter", 
+            "attack": "4", 
+            "health": "6", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Whenever your General takes damage, give this minion +2 Attack and draw a card.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_rubyrifter.png", 
+            "label": "Ruby Rifter", 
+            "attack": "4", 
+            "health": "6", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, it teleports to a random space.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Chaos-Elemental.png", 
+            "label": "Chaos Elemental", 
+            "attack": "4", 
+            "health": "4", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, it teleports to a random space.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Chaos-Elemental.png", 
+            "label": "Chaos Elemental", 
+            "attack": "4", 
+            "health": "4", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "If this minion is dealt damage and suevives, return it to your action bar.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Sand-Burrower.png", 
+            "label": "Sand Burrower", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "If this minion is dealt damage and suevives, return it to your action bar.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Sand-Burrower.png", 
+            "label": "Sand Burrower", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Provoke Dispel any minion that deals damage to this one.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/TETHERMANCER.png", 
+            "label": "Tethermancer", 
+            "attack": "1", 
+            "health": "6", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Provoke Dispel any minion that deals damage to this one.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/TETHERMANCER.png", 
+            "label": "Tethermancer", 
+            "attack": "1", 
+            "health": "6", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
             "description": "Opening Gambit: Summon all friendly Units that were destroyed on your opponent's last turn on a random space.", 
-            "faction": "Magmar", 
+            "faction": "Abyssian", 
             "image": "http://manaspring.ru/deckbuilder/img/sprites/Zurael,-the-Lifegiver.png", 
             "label": "Zurael, The Lifegiver", 
             "attack": "4", 
@@ -13,7 +145,7 @@
         }, 
         {
             "description": "Opening Gambit: Summon all friendly Units that were destroyed on your opponent's last turn on a random space.", 
-            "faction": "Magmar", 
+            "faction": "Abyssian", 
             "image": "http://manaspring.ru/deckbuilder/img/sprites/Zurael,-the-Lifegiver.png", 
             "label": "Zurael, The Lifegiver", 
             "attack": "4", 
@@ -23,5963 +155,1642 @@
             "mana_cost": "7"
         }, 
         {
-            "description": "", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/11055_idle.png", 
-            "label": "Silverbeak", 
-            "attack": "6", 
-            "health": "9", 
-            "rarity": "common", 
-            "type": "Minion", 
-            "mana_cost": "6"
-        }, 
-        {
-            "description": "", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/11055_idle.png", 
-            "label": "Silverbeak", 
-            "attack": "6", 
-            "health": "9", 
-            "rarity": "common", 
-            "type": "Minion", 
-            "mana_cost": "6"
-        }, 
-        {
-            "description": "Whenever you summon a minion with Opening Gambit from your action bar, this minion gains +2 Attack.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/ARAKI-HEADHUNTER.png", 
-            "label": "Araki Headhunter", 
-            "attack": "1", 
-            "health": "3", 
-            "rarity": "epic", 
-            "type": "Minion", 
-            "mana_cost": "2"
-        }, 
-        {
-            "description": "Whenever you summon a minion with Opening Gambit from your action bar, this minion gains +2 Attack.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/ARAKI-HEADHUNTER.png", 
-            "label": "Araki Headhunter", 
-            "attack": "1", 
-            "health": "3", 
-            "rarity": "epic", 
-            "type": "Minion", 
-            "mana_cost": "2"
-        }, 
-        {
-            "description": "Whenever you summon a minion with Opening Gambit from your action bar, this minion gains +2 Attack.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/ARAKI-HEADHUNTER.png", 
-            "label": "Araki Headhunter", 
-            "attack": "1", 
-            "health": "3", 
-            "rarity": "epic", 
-            "type": "Minion", 
-            "mana_cost": "2"
-        }, 
-        {
-            "description": "Frenzy", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Piercing-Mantis.png", 
-            "label": "Piercing Mantis", 
-            "attack": "2", 
-            "health": "2", 
-            "rarity": "", 
-            "type": "Minion", 
-            "mana_cost": "2"
-        }, 
-        {
-            "description": "Frenzy", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Piercing-Mantis.png", 
-            "label": "Piercing Mantis", 
-            "attack": "2", 
-            "health": "2", 
-            "rarity": "", 
-            "type": "Minion", 
-            "mana_cost": "2"
-        }, 
-        {
-            "description": "", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Hailstone-Golem.png", 
-            "label": "Hailstone Golem", 
+            "description": "Opening Gambit: Summon all friendly Units that were destroyed on your opponent's last turn on a random space.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Zurael,-the-Lifegiver.png", 
+            "label": "Zurael, The Lifegiver", 
             "attack": "4", 
-            "health": "6", 
-            "rarity": "", 
-            "type": "Golem", 
-            "mana_cost": "4"
-        }, 
-        {
-            "description": "", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Hailstone-Golem.png", 
-            "label": "Hailstone Golem", 
-            "attack": "4", 
-            "health": "6", 
-            "rarity": "", 
-            "type": "Golem", 
-            "mana_cost": "4"
-        }, 
-        {
-            "description": "This unit takes no damage from generals.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Silvertongue-Corsair.png", 
-            "label": "Silvertongue Corsair", 
-            "attack": "3", 
-            "health": "3", 
-            "rarity": "rare", 
-            "type": "Minion", 
-            "mana_cost": "3"
-        }, 
-        {
-            "description": "This unit takes no damage from generals.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Silvertongue-Corsair.png", 
-            "label": "Silvertongue Corsair", 
-            "attack": "3", 
-            "health": "3", 
-            "rarity": "rare", 
-            "type": "Minion", 
-            "mana_cost": "3"
-        }, 
-        {
-            "description": "At the end of your turn, summon a 3/3 Spirit Wolf with a random ability on a nearby space.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Pandora.png", 
-            "label": "Pandora", 
-            "attack": "3", 
-            "health": "10", 
+            "health": "7", 
             "rarity": "legendary", 
             "type": "Minion", 
             "mana_cost": "7"
         }, 
         {
-            "description": "At the end of your turn, summon a 3/3 Spirit Wolf with a random ability on a nearby space.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Pandora.png", 
-            "label": "Pandora", 
-            "attack": "3", 
-            "health": "10", 
-            "rarity": "legendary", 
-            "type": "Minion", 
-            "mana_cost": "7"
-        }, 
-        {
-            "description": "Whenever this Unit deals damage, either deal 3 damage to the enemy General OR restore 3 Health to your General.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Purgatos,-The-Realmkeeper.png", 
-            "label": "Purgatos, The Realmkeeper", 
+            "description": "You control your Battle Pets.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11059_idle.png", 
+            "label": "Zukong", 
             "attack": "3", 
             "health": "4", 
-            "rarity": "epic", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "You control your Battle Pets.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11059_idle.png", 
+            "label": "Zukong", 
+            "attack": "3", 
+            "health": "4", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11001_idle.png", 
+            "label": "Amu", 
+            "attack": "3", 
+            "health": "3", 
+            "rarity": "common", 
+            "type": "Battle pet", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11001_idle.png", 
+            "label": "Amu", 
+            "attack": "3", 
+            "health": "3", 
+            "rarity": "common", 
+            "type": "Battle pet", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Summon 2 random Units destroyed since your last turn on random spaces nearby your General.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Nether-Summoning.png", 
+            "label": "Nether Summoning", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "legendary", 
+            "type": "Spell", 
+            "mana_cost": "5", 
+            "target": "NO"
+        }, 
+        {
+            "description": "Summon 2 random Units destroyed since your last turn on random spaces nearby your General.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Nether-Summoning.png", 
+            "label": "Nether Summoning", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "legendary", 
+            "type": "Spell", 
+            "mana_cost": "5", 
+            "target": "NO"
+        }, 
+        {
+            "description": "Summon 2 random Units destroyed since your last turn on random spaces nearby your General.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Nether-Summoning.png", 
+            "label": "Nether Summoning", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "legendary", 
+            "type": "Spell", 
+            "mana_cost": "5", 
+            "target": "NO"
+        }, 
+        {
+            "description": "Opening Gambit: Push a nearby enemy Unit to any space on the battlefield.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Repulsor-Beast.png", 
+            "label": "Repulsor Beast", 
+            "attack": "2", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Opening Gambit: Push a nearby enemy Unit to any space on the battlefield.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Repulsor-Beast.png", 
+            "label": "Repulsor Beast", 
+            "attack": "2", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Opening Gambit: Push a nearby enemy Unit to any space on the battlefield.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Repulsor-Beast.png", 
+            "label": "Repulsor Beast", 
+            "attack": "2", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Opening Gambit: Summon a random friendly minion destroyed this game nearby this minion.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/KEEPER-OF-THE-VALE.png", 
+            "label": "Keeper Of The Vale", 
+            "attack": "3", 
+            "health": "4", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Opening Gambit: Summon a random friendly minion destroyed this game nearby this minion.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/KEEPER-OF-THE-VALE.png", 
+            "label": "Keeper Of The Vale", 
+            "attack": "3", 
+            "health": "4", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Opening Gambit: Summon a random friendly minion destroyed this game nearby this minion.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/KEEPER-OF-THE-VALE.png", 
+            "label": "Keeper Of The Vale", 
+            "attack": "3", 
+            "health": "4", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Forcefield", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/SUNSTEEL-DEFENDER.png", 
+            "label": "Sunsteel Defender", 
+            "attack": "4", 
+            "health": "3", 
+            "rarity": "rare", 
             "type": "Minion", 
             "mana_cost": "4"
         }, 
         {
-            "description": "Whenever this Unit deals damage, either deal 3 damage to the enemy General OR restore 3 Health to your General.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Purgatos,-The-Realmkeeper.png", 
-            "label": "Purgatos, The Realmkeeper", 
-            "attack": "3", 
-            "health": "4", 
-            "rarity": "epic", 
+            "description": "Forcefield", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/SUNSTEEL-DEFENDER.png", 
+            "label": "Sunsteel Defender", 
+            "attack": "4", 
+            "health": "3", 
+            "rarity": "rare", 
             "type": "Minion", 
             "mana_cost": "4"
         }, 
         {
-            "description": "Provoke Your other Golem Units have Provoke.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Golem-Vanquisher.png", 
-            "label": "Golem Vanquisher", 
+            "description": "Forcefield", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/SUNSTEEL-DEFENDER.png", 
+            "label": "Sunsteel Defender", 
+            "attack": "4", 
+            "health": "3", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Restore 4 Health to BOTH Generals.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Emerald-Rejuvenator.png", 
+            "label": "Emerald Rejuvenator", 
+            "attack": "4", 
+            "health": "4", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Restore 4 Health to BOTH Generals.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Emerald-Rejuvenator.png", 
+            "label": "Emerald Rejuvenator", 
+            "attack": "4", 
+            "health": "4", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Restore 4 Health to BOTH Generals.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Emerald-Rejuvenator.png", 
+            "label": "Emerald Rejuvenator", 
+            "attack": "4", 
+            "health": "4", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Celerity Dying Wish: Summon six Wraithlings on random spaces.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Vorpal-Reaver.png", 
+            "label": "Vorpal Reaver", 
+            "attack": "6", 
+            "health": "6", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Celerity Dying Wish: Summon six Wraithlings on random spaces.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Vorpal-Reaver.png", 
+            "label": "Vorpal Reaver", 
+            "attack": "6", 
+            "health": "6", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Opening Gambit: Restore 2 Health to a Unit or General.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Healing-Mystic.png", 
+            "label": "Healing Mystic", 
             "attack": "2", 
+            "health": "3", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Opening Gambit: Restore 2 Health to a Unit or General.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Healing-Mystic.png", 
+            "label": "Healing Mystic", 
+            "attack": "2", 
+            "health": "3", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Opening Gambit: Restore 2 Health to a Unit or General.", 
+            "faction": "Abyssian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Healing-Mystic.png", 
+            "label": "Healing Mystic", 
+            "attack": "2", 
+            "health": "3", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "avg_hand_size": 2.2910909090909093
+        }, 
+        {
+            "lost_mana": 16.669
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6
+            ]
+        }
+    ], 
+    [
+        {
+            "description": "Opening Gambit: Put a Riddle in your opponent's action bar.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_pennyarcade04.png", 
+            "label": "Sphynx", 
+            "attack": "5", 
             "health": "4", 
             "rarity": "legendary", 
-            "type": "Golem", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Put a Riddle in your opponent's action bar.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_pennyarcade04.png", 
+            "label": "Sphynx", 
+            "attack": "5", 
+            "health": "4", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Put a Riddle in your opponent's action bar.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_pennyarcade04.png", 
+            "label": "Sphynx", 
+            "attack": "5", 
+            "health": "4", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Push a nearby enemy Unit to any space on the battlefield.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Repulsor-Beast.png", 
+            "label": "Repulsor Beast", 
+            "attack": "2", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
             "mana_cost": "3"
         }, 
         {
-            "description": "Provoke Your other Golem Units have Provoke.", 
+            "description": "Opening Gambit: Push a nearby enemy Unit to any space on the battlefield.", 
             "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Golem-Vanquisher.png", 
-            "label": "Golem Vanquisher", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Repulsor-Beast.png", 
+            "label": "Repulsor Beast", 
             "attack": "2", 
-            "health": "4", 
-            "rarity": "legendary", 
-            "type": "Golem", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
             "mana_cost": "3"
         }, 
         {
-            "description": "Whenever this Unit takes damage, summon a random token Unit nearby.", 
+            "description": "Steal a random Unit from your opponent's deck and summon it.", 
             "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Khymera.png", 
-            "label": "Khymera", 
-            "attack": "5", 
-            "health": "12", 
-            "rarity": "legendary", 
-            "type": "Minion", 
-            "mana_cost": "8"
-        }, 
-        {
-            "description": "Whenever this Unit takes damage, summon a random token Unit nearby.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Khymera.png", 
-            "label": "Khymera", 
-            "attack": "5", 
-            "health": "12", 
-            "rarity": "legendary", 
-            "type": "Minion", 
-            "mana_cost": "8"
-        }, 
-        {
-            "description": "Whenever this Unit takes damage, summon a random token Unit nearby.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Khymera.png", 
-            "label": "Khymera", 
-            "attack": "5", 
-            "health": "12", 
-            "rarity": "legendary", 
-            "type": "Minion", 
-            "mana_cost": "8"
-        }, 
-        {
-            "description": "Your General becomes 10/10.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bounded-Lifeforce.png", 
-            "label": "Bounded Lifeforce", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Mind-Steal.png", 
+            "label": "Mind Steal", 
             "attack": "", 
             "health": "", 
             "rarity": "epic", 
             "type": "Spell", 
-            "mana_cost": "7", 
+            "mana_cost": "4", 
             "target": "NO"
         }, 
         {
-            "description": "Your General becomes 10/10.", 
+            "description": "Steal a random Unit from your opponent's deck and summon it.", 
             "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bounded-Lifeforce.png", 
-            "label": "Bounded Lifeforce", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Mind-Steal.png", 
+            "label": "Mind Steal", 
             "attack": "", 
             "health": "", 
             "rarity": "epic", 
             "type": "Spell", 
-            "mana_cost": "7", 
+            "mana_cost": "4", 
             "target": "NO"
         }, 
         {
-            "description": "Whenever a friendly Unit or your General takes damage, your General gains +2 Attack.", 
+            "description": "Celerity", 
             "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Twin-Fang.png", 
-            "label": "Twin Fang", 
-            "attack": "", 
-            "health": "", 
-            "rarity": "legendary", 
-            "type": "Artifact", 
-            "mana_cost": "3"
-        }, 
-        {
-            "description": "Whenever a friendly Unit or your General takes damage, your General gains +2 Attack.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Twin-Fang.png", 
-            "label": "Twin Fang", 
-            "attack": "", 
-            "health": "", 
-            "rarity": "legendary", 
-            "type": "Artifact", 
-            "mana_cost": "3"
-        }, 
-        {
-            "description": "Whenever a friendly Unit or your General takes damage, your General gains +2 Attack.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Twin-Fang.png", 
-            "label": "Twin Fang", 
-            "attack": "", 
-            "health": "", 
-            "rarity": "legendary", 
-            "type": "Artifact", 
-            "mana_cost": "3"
-        }, 
-        {
-            "description": "Your opponent's non-Bloodborn spells cost 1 more to cast.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Archon-Spellbinder.png", 
-            "label": "Archon Spellbinder", 
-            "attack": "7", 
-            "health": "7", 
-            "rarity": "legendary", 
-            "type": "Arcanyst", 
-            "mana_cost": "6"
-        }, 
-        {
-            "description": "Your opponent's non-Bloodborn spells cost 1 more to cast.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Archon-Spellbinder.png", 
-            "label": "Archon Spellbinder", 
-            "attack": "7", 
-            "health": "7", 
-            "rarity": "legendary", 
-            "type": "Arcanyst", 
-            "mana_cost": "6"
-        }, 
-        {
-            "description": "Your opponent's non-Bloodborn spells cost 1 more to cast.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Archon-Spellbinder.png", 
-            "label": "Archon Spellbinder", 
-            "attack": "7", 
-            "health": "7", 
-            "rarity": "legendary", 
-            "type": "Arcanyst", 
-            "mana_cost": "6"
-        }, 
-        {
-            "description": "", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bloodshard-Golem.png", 
-            "label": "Bloodshard Golem", 
-            "attack": "4", 
-            "health": "3", 
-            "rarity": "", 
-            "type": "Golem", 
-            "mana_cost": "3"
-        }, 
-        {
-            "description": "", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bloodshard-Golem.png", 
-            "label": "Bloodshard Golem", 
-            "attack": "4", 
-            "health": "3", 
-            "rarity": "", 
-            "type": "Golem", 
-            "mana_cost": "3"
-        }, 
-        {
-            "description": "Whenever you cast a spell, summon a 1/1 Spellspark with Rush on a random nearby space.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Firestarter.png", 
-            "label": "Firestarter", 
-            "attack": "3", 
-            "health": "5", 
-            "rarity": "rare", 
-            "type": "Arcanyst", 
-            "mana_cost": "5"
-        }, 
-        {
-            "description": "Whenever you cast a spell, summon a 1/1 Spellspark with Rush on a random nearby space.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Firestarter.png", 
-            "label": "Firestarter", 
-            "attack": "3", 
-            "health": "5", 
-            "rarity": "rare", 
-            "type": "Arcanyst", 
-            "mana_cost": "5"
-        }, 
-        {
-            "description": "Whenever you cast a spell, summon a 1/1 Spellspark with Rush on a random nearby space.", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Firestarter.png", 
-            "label": "Firestarter", 
-            "attack": "3", 
-            "health": "5", 
-            "rarity": "rare", 
-            "type": "Arcanyst", 
-            "mana_cost": "5"
-        }, 
-        {
-            "description": "", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Skyrock-Golem.png", 
-            "label": "Skyrock Golem", 
-            "attack": "3", 
-            "health": "2", 
-            "rarity": "", 
-            "type": "Golem", 
-            "mana_cost": "2"
-        }, 
-        {
-            "description": "", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Skyrock-Golem.png", 
-            "label": "Skyrock Golem", 
-            "attack": "3", 
-            "health": "2", 
-            "rarity": "", 
-            "type": "Golem", 
-            "mana_cost": "2"
-        }, 
-        {
-            "description": "", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Skyrock-Golem.png", 
-            "label": "Skyrock Golem", 
-            "attack": "3", 
-            "health": "2", 
-            "rarity": "", 
-            "type": "Golem", 
-            "mana_cost": "2"
-        }, 
-        {
-            "description": "", 
-            "faction": "Magmar", 
-            "image": "http://manaspring.ru/deckbuilder/img/sprites/Stormmetal-Golem.png", 
-            "label": "Stormmetal Golem", 
-            "attack": "8", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Dagger-Kiri.png", 
+            "label": "Dagger Kiri", 
+            "attack": "2", 
             "health": "8", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Celerity", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Dagger-Kiri.png", 
+            "label": "Dagger Kiri", 
+            "attack": "2", 
+            "health": "8", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Celerity", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Dagger-Kiri.png", 
+            "label": "Dagger Kiri", 
+            "attack": "2", 
+            "health": "8", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Provoke", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Whistling-Blade.png", 
+            "label": "Whistling Blade", 
+            "attack": "2", 
+            "health": "15", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Provoke", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Whistling-Blade.png", 
+            "label": "Whistling Blade", 
+            "attack": "2", 
+            "health": "15", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, summon a random token Unit nearby.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Khymera.png", 
+            "label": "Khymera", 
+            "attack": "5", 
+            "health": "12", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "8"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, summon a random token Unit nearby.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Khymera.png", 
+            "label": "Khymera", 
+            "attack": "5", 
+            "health": "12", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "8"
+        }, 
+        {
+            "description": "At the start of your turn, deal 4 damage to the enemy General and this Unit gains +4 Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Dark-Nemesis.png", 
+            "label": "Dark Nemesis", 
+            "attack": "4", 
+            "health": "10", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "At the start of your turn, deal 4 damage to the enemy General and this Unit gains +4 Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Dark-Nemesis.png", 
+            "label": "Dark Nemesis", 
+            "attack": "4", 
+            "health": "10", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Whenever a friendly Battle Pet dies, draw a card.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11052_idle.png", 
+            "label": "Hydrax", 
+            "attack": "3", 
+            "health": "3", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Whenever a friendly Battle Pet dies, draw a card.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11052_idle.png", 
+            "label": "Hydrax", 
+            "attack": "3", 
+            "health": "3", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Whenever a friendly Battle Pet dies, draw a card.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11052_idle.png", 
+            "label": "Hydrax", 
+            "attack": "3", 
+            "health": "3", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Ranged Whenever this Unit damages an enemy Unit, pull that Unit in front of this one.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Syvrel-the-Exile.png", 
+            "label": "Syvrel The Exile", 
+            "attack": "1", 
+            "health": "4", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Ranged Whenever this Unit damages an enemy Unit, pull that Unit in front of this one.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Syvrel-the-Exile.png", 
+            "label": "Syvrel The Exile", 
+            "attack": "1", 
+            "health": "4", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Grow: +1/+1.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/420_idle.png", 
+            "label": "Gro", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "rare", 
+            "type": "battle pet", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Grow: +1/+1.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/420_idle.png", 
+            "label": "Gro", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "rare", 
+            "type": "battle pet", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "At the end of your turn, give each nearby friendly minion +1 Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_shirodogdragon.png", 
+            "label": "Shiro Puppydragon", 
+            "attack": "1", 
+            "health": "4", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "At the end of your turn, give each nearby friendly minion +1 Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_shirodogdragon.png", 
+            "label": "Shiro Puppydragon", 
+            "attack": "1", 
+            "health": "4", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Ranged", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Fire-Spitter.png", 
+            "label": "Fire Spitter", 
+            "attack": "3", 
+            "health": "2", 
             "rarity": "", 
-            "type": "Golem", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Ranged", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Fire-Spitter.png", 
+            "label": "Fire Spitter", 
+            "attack": "3", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Ranged", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Fire-Spitter.png", 
+            "label": "Fire Spitter", 
+            "attack": "3", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Take control of a nearby enemy Unit with 2 or less Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Zen'Rui,-The-BlightSpawned.png", 
+            "label": "Zen'rui, The Blightspawned", 
+            "attack": "4", 
+            "health": "3", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Opening Gambit: Take control of a nearby enemy Unit with 2 or less Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Zen'Rui,-The-BlightSpawned.png", 
+            "label": "Zen'rui, The Blightspawned", 
+            "attack": "4", 
+            "health": "3", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Opening Gambit: Take control of a nearby enemy Unit with 2 or less Attack.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Zen'Rui,-The-BlightSpawned.png", 
+            "label": "Zen'rui, The Blightspawned", 
+            "attack": "4", 
+            "health": "3", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Ranged", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Vale-Hunter.png", 
+            "label": "Vale Hunter", 
+            "attack": "1", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Ranged", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Vale-Hunter.png", 
+            "label": "Vale Hunter", 
+            "attack": "1", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Flying", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Storm-Aratha.png", 
+            "label": "Storm Aratha", 
+            "attack": "6", 
+            "health": "5", 
+            "rarity": "common", 
+            "type": "Minion", 
             "mana_cost": "6"
         }, 
         {
-            "avg_hand_size": 3.5752727272727274
+            "description": "Flying", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Storm-Aratha.png", 
+            "label": "Storm Aratha", 
+            "attack": "6", 
+            "health": "5", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "6"
         }, 
         {
-            "lost_mana": 20.515
+            "description": "Flying", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Storm-Aratha.png", 
+            "label": "Storm Aratha", 
+            "attack": "6", 
+            "health": "5", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "6"
         }, 
         {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
+            "description": "Provoke", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Rock-Pulverizer.png", 
+            "label": "Rock Pulverizer", 
+            "attack": "1", 
+            "health": "4", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
         }, 
         {
-            "lost_mana": 20.515
+            "description": "Provoke", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Rock-Pulverizer.png", 
+            "label": "Rock Pulverizer", 
+            "attack": "1", 
+            "health": "4", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
         }, 
         {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
-        }, 
-        {
-            "avg_hand_size": 3.5752727272727274
-        }, 
-        {
-            "lost_mana": 20.515
-        }, 
-        {
-            "manacurve": [
-                2, 
-                3, 
-                4, 
-                5, 
-                6, 
-                7, 
-                8, 
-                9, 
-                9, 
-                9, 
-                9
-            ]
+            "description": "If this minion is dealt damage and suevives, return it to your action bar.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Sand-Burrower.png", 
+            "label": "Sand Burrower", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "3"
         }, 
         {
-            "avg_hand_size": 3.5752727272727274
+            "avg_hand_size": 3.0342727272727275
         }, 
-        {
-            "lost_mana": 20.515
+        {
+            "lost_mana": 18.63
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9
+            ]
+        }
+    ], 
+    [
+        {
+            "description": "Opening Gambit: 'Dispel 1 nearby space.'", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Ephemeral-Shroud.png", 
+            "label": "Ephemeral Shroud", 
+            "attack": "2", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Opening Gambit: 'Dispel 1 nearby space.'", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Ephemeral-Shroud.png", 
+            "label": "Ephemeral Shroud", 
+            "attack": "2", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Opening Gambit: Add 2 random cards from your Faction to your action bar.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_sister.png", 
+            "label": "Sworn Sister L'kian", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "legendary sc0", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Add 2 random cards from your Faction to your action bar.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_sister.png", 
+            "label": "Sworn Sister L'kian", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "legendary sc0", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Whenever this minion damages an enemy, teleport that enemy to a random unoccupied corner.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_envybaer.png", 
+            "label": "Envybaer", 
+            "attack": "3", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Whenever this minion damages an enemy, teleport that enemy to a random unoccupied corner.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_envybaer.png", 
+            "label": "Envybaer", 
+            "attack": "3", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Give a friendly Dervish minion +3/+3 and Flying.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Scion's-Third-Wish.png", 
+            "label": "Scion's Third Wish", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "legendary", 
+            "type": "Spell", 
+            "mana_cost": "3", 
+            "target": "FRIENDLY"
+        }, 
+        {
+            "description": "Give a friendly Dervish minion +3/+3 and Flying.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Scion's-Third-Wish.png", 
+            "label": "Scion's Third Wish", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "legendary", 
+            "type": "Spell", 
+            "mana_cost": "3", 
+            "target": "FRIENDLY"
+        }, 
+        {
+            "description": "Rush", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Saberspine-Tiger.png", 
+            "label": "Saberspine Tiger", 
+            "attack": "3", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Rush", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Saberspine-Tiger.png", 
+            "label": "Saberspine Tiger", 
+            "attack": "3", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Rush", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Saberspine-Tiger.png", 
+            "label": "Saberspine Tiger", 
+            "attack": "3", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Summon Dervish", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Ethereal-Obelysk.png", 
+            "label": "Ethereal Obelysk", 
+            "attack": "0", 
+            "health": "6", 
+            "rarity": "", 
+            "type": "Structure", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Summon Dervish", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Ethereal-Obelysk.png", 
+            "label": "Ethereal Obelysk", 
+            "attack": "0", 
+            "health": "6", 
+            "rarity": "", 
+            "type": "Structure", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Summon Dervish", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Ethereal-Obelysk.png", 
+            "label": "Ethereal Obelysk", 
+            "attack": "0", 
+            "health": "6", 
+            "rarity": "", 
+            "type": "Structure", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Take control of an enemy Unit nearby your General.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Dominate-Will.png", 
+            "label": "Dominate Will", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "rare", 
+            "type": "Spell", 
+            "mana_cost": "7", 
+            "target": "ENEMY"
+        }, 
+        {
+            "description": "Take control of an enemy Unit nearby your General.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Dominate-Will.png", 
+            "label": "Dominate Will", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "rare", 
+            "type": "Spell", 
+            "mana_cost": "7", 
+            "target": "ENEMY"
+        }, 
+        {
+            "description": "Ranged attackers must attack this minion first.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Wind-Stopper.png", 
+            "label": "Wind Stopper", 
+            "attack": "1", 
+            "health": "7", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Ranged attackers must attack this minion first.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Wind-Stopper.png", 
+            "label": "Wind Stopper", 
+            "attack": "1", 
+            "health": "7", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Deals double damage to Units.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bluetip-Scorpion.png", 
+            "label": "Bluetip Scorpion", 
+            "attack": "3", 
+            "health": "1", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Deals double damage to Units.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bluetip-Scorpion.png", 
+            "label": "Bluetip Scorpion", 
+            "attack": "3", 
+            "health": "1", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Deals double damage to Units.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bluetip-Scorpion.png", 
+            "label": "Bluetip Scorpion", 
+            "attack": "3", 
+            "health": "1", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, it deals that much damage to the enemy General.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Eclipse.png", 
+            "label": "Eclipse", 
+            "attack": "3", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Arcanyst", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Whenever this Unit takes damage, it deals that much damage to the enemy General.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Eclipse.png", 
+            "label": "Eclipse", 
+            "attack": "3", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Arcanyst", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Flying", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Young-Flamewing.png", 
+            "label": "Young Flamewing", 
+            "attack": "5", 
+            "health": "4", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Flying", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Young-Flamewing.png", 
+            "label": "Young Flamewing", 
+            "attack": "5", 
+            "health": "4", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Thorn-Needler.png", 
+            "label": "Thorn Needler", 
+            "attack": "6", 
+            "health": "4", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Thorn-Needler.png", 
+            "label": "Thorn Needler", 
+            "attack": "6", 
+            "health": "4", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Deal 3 damage to ANY Unit in front of this Unit.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Dancing-Blades.png", 
+            "label": "Dancing Blades", 
+            "attack": "4", 
+            "health": "6", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Opening Gambit: Deal 3 damage to ANY Unit in front of this Unit.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Dancing-Blades.png", 
+            "label": "Dancing Blades", 
+            "attack": "4", 
+            "health": "6", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Opening Gambit: Deal 3 damage to ANY Unit in front of this Unit.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Dancing-Blades.png", 
+            "label": "Dancing Blades", 
+            "attack": "4", 
+            "health": "6", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Dying Wish: Summon a 1/1 Ranged Mini-Jax in a random unoccupied corner.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Jaxi.png", 
+            "label": "Jaxi", 
+            "attack": "1", 
+            "health": "1", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Dying Wish: Summon a 1/1 Ranged Mini-Jax in a random unoccupied corner.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Jaxi.png", 
+            "label": "Jaxi", 
+            "attack": "1", 
+            "health": "1", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Flying", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Putrid-Dreadflayer.png", 
+            "label": "Putrid Dreadflayer", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Flying", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Putrid-Dreadflayer.png", 
+            "label": "Putrid Dreadflayer", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Airdrop Opening Gambit: Push ALL nearby Units and Generals to random spaces on the battlefield.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Paddo.png", 
+            "label": "Paddo", 
+            "attack": "12", 
+            "health": "6", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Airdrop Opening Gambit: Push ALL nearby Units and Generals to random spaces on the battlefield.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Paddo.png", 
+            "label": "Paddo", 
+            "attack": "12", 
+            "health": "6", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Airdrop Opening Gambit: Push ALL nearby Units and Generals to random spaces on the battlefield.", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Paddo.png", 
+            "label": "Paddo", 
+            "attack": "12", 
+            "health": "6", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Frenzy, Provoke", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/WAR-TALON.png", 
+            "label": "War Talon", 
+            "attack": "4", 
+            "health": "9", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Frenzy, Provoke", 
+            "faction": "Vetruvian", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/WAR-TALON.png", 
+            "label": "War Talon", 
+            "attack": "4", 
+            "health": "9", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "avg_hand_size": 2.9796363636363634
+        }, 
+        {
+            "lost_mana": 17.763
+        }, 
+        {
+            "manacurve": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                9
+            ]
+        }
+    ], 
+    [
+        {
+            "description": "Opening Gambit: Restore 2 Health to a Unit or General.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Healing-Mystic.png", 
+            "label": "Healing Mystic", 
+            "attack": "2", 
+            "health": "3", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Opening Gambit: Restore 2 Health to a Unit or General.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Healing-Mystic.png", 
+            "label": "Healing Mystic", 
+            "attack": "2", 
+            "health": "3", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Rush", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Saberspine-Tiger.png", 
+            "label": "Saberspine Tiger", 
+            "attack": "3", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Rush", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Saberspine-Tiger.png", 
+            "label": "Saberspine Tiger", 
+            "attack": "3", 
+            "health": "2", 
+            "rarity": "", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Your General becomes 10/10.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bounded-Lifeforce.png", 
+            "label": "Bounded Lifeforce", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "epic", 
+            "type": "Spell", 
+            "mana_cost": "7", 
+            "target": "NO"
+        }, 
+        {
+            "description": "Your General becomes 10/10.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bounded-Lifeforce.png", 
+            "label": "Bounded Lifeforce", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "epic", 
+            "type": "Spell", 
+            "mana_cost": "7", 
+            "target": "NO"
+        }, 
+        {
+            "description": "Your General becomes 10/10.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Bounded-Lifeforce.png", 
+            "label": "Bounded Lifeforce", 
+            "attack": "", 
+            "health": "", 
+            "rarity": "epic", 
+            "type": "Spell", 
+            "mana_cost": "7", 
+            "target": "NO"
+        }, 
+        {
+            "description": "Grow: +1/+1.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/420_idle.png", 
+            "label": "Gro", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "rare", 
+            "type": "battle pet", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Grow: +1/+1.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/420_idle.png", 
+            "label": "Gro", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "rare", 
+            "type": "battle pet", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Dying Wish: Draw a card.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Void-Hunter.png", 
+            "label": "Void Hunter", 
+            "attack": "4", 
+            "health": "2", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Dying Wish: Draw a card.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Void-Hunter.png", 
+            "label": "Void Hunter", 
+            "attack": "4", 
+            "health": "2", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Dying Wish: Draw a card.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Void-Hunter.png", 
+            "label": "Void Hunter", 
+            "attack": "4", 
+            "health": "2", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Opening Gambit: Teleport your General up to 3 spaces.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Silhouette-Tracer.png", 
+            "label": "Silhouette Tracer", 
+            "attack": "2", 
+            "health": "6", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Teleport your General up to 3 spaces.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Silhouette-Tracer.png", 
+            "label": "Silhouette Tracer", 
+            "attack": "2", 
+            "health": "6", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Add 2 random cards from your Faction to your action bar.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_sister.png", 
+            "label": "Sworn Sister L'kian", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "legendary sc0", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Opening Gambit: Add 2 random cards from your Faction to your action bar.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_sister.png", 
+            "label": "Sworn Sister L'kian", 
+            "attack": "2", 
+            "health": "4", 
+            "rarity": "legendary sc0", 
+            "type": "Minion", 
+            "mana_cost": "4"
+        }, 
+        {
+            "description": "Whenever your General takes damage, this Unit deals 7 damage to a random nearby enemy Unit.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Red-Synja.png", 
+            "label": "Red Synja", 
+            "attack": "7", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Whenever your General takes damage, this Unit deals 7 damage to a random nearby enemy Unit.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Red-Synja.png", 
+            "label": "Red Synja", 
+            "attack": "7", 
+            "health": "7", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "Provoke This minions's cost equal to your General's Health.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_taura.png", 
+            "label": "Blood Taura", 
+            "attack": "12", 
+            "health": "12", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "25"
+        }, 
+        {
+            "description": "Provoke This minions's cost equal to your General's Health.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_taura.png", 
+            "label": "Blood Taura", 
+            "attack": "12", 
+            "health": "12", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "25"
+        }, 
+        {
+            "description": "Provoke Whenever you replace a card, summon a 2/2 Prisoner with a random ability nearby.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11064_idle.png", 
+            "label": "Inquisitor Kron", 
+            "attack": "4", 
+            "health": "6", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Provoke Whenever you replace a card, summon a 2/2 Prisoner with a random ability nearby.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11064_idle.png", 
+            "label": "Inquisitor Kron", 
+            "attack": "4", 
+            "health": "6", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Whenever your General takes damage, restore this Unit to full Health.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Sworn-Defender.png", 
+            "label": "Sworn Defender", 
+            "attack": "4", 
+            "health": "7", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Whenever your General takes damage, restore this Unit to full Health.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Sworn-Defender.png", 
+            "label": "Sworn Defender", 
+            "attack": "4", 
+            "health": "7", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Opening Gambit: Destroy a random artifact on the enemy General.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Rust-Crawler.png", 
+            "label": "Rust Crawler", 
+            "attack": "2", 
+            "health": "3", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Opening Gambit: Destroy a random artifact on the enemy General.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Rust-Crawler.png", 
+            "label": "Rust Crawler", 
+            "attack": "2", 
+            "health": "3", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Opening Gambit: Destroy a random artifact on the enemy General.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Rust-Crawler.png", 
+            "label": "Rust Crawler", 
+            "attack": "2", 
+            "health": "3", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Ranged At the end of your turn, restore 2 Health to all nearby friendly Units.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Lux-Ignis.png", 
+            "label": "Lux Ignis", 
+            "attack": "2", 
+            "health": "5", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Ranged At the end of your turn, restore 2 Health to all nearby friendly Units.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Lux-Ignis.png", 
+            "label": "Lux Ignis", 
+            "attack": "2", 
+            "health": "5", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Ranged At the end of your turn, restore 2 Health to all nearby friendly Units.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Lux-Ignis.png", 
+            "label": "Lux Ignis", 
+            "attack": "2", 
+            "health": "5", 
+            "rarity": "epic", 
+            "type": "Minion", 
+            "mana_cost": "5"
+        }, 
+        {
+            "description": "Opening Gambit: Gain two random abilities.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_pennyarcade02.png", 
+            "label": "Elkowl", 
+            "attack": "2", 
+            "health": "3", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Opening Gambit: Gain two random abilities.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/neutral_pennyarcade02.png", 
+            "label": "Elkowl", 
+            "attack": "2", 
+            "health": "3", 
+            "rarity": "rare", 
+            "type": "Minion", 
+            "mana_cost": "3"
+        }, 
+        {
+            "description": "Opening Gambit: Deal 3 damage to all enemy Units around it.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Deathblighter.png", 
+            "label": "Deathblighter", 
+            "attack": "3", 
+            "health": "4", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Opening Gambit: Deal 3 damage to all enemy Units around it.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Deathblighter.png", 
+            "label": "Deathblighter", 
+            "attack": "3", 
+            "health": "4", 
+            "rarity": "common", 
+            "type": "Minion", 
+            "mana_cost": "6"
+        }, 
+        {
+            "description": "Dying Wish: Put a random MECH minion into your action bar.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11061_idle.png", 
+            "label": "Z0r", 
+            "attack": "2", 
+            "health": "1", 
+            "rarity": "epic", 
+            "type": "Battle pet", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "Dying Wish: Put a random MECH minion into your action bar.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/11061_idle.png", 
+            "label": "Z0r", 
+            "attack": "2", 
+            "health": "1", 
+            "rarity": "epic", 
+            "type": "Battle pet", 
+            "mana_cost": "2"
+        }, 
+        {
+            "description": "At the end of your turn, summon a 3/3 Spirit Wolf with a random ability on a nearby space.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Pandora.png", 
+            "label": "Pandora", 
+            "attack": "3", 
+            "health": "10", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "At the end of your turn, summon a 3/3 Spirit Wolf with a random ability on a nearby space.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Pandora.png", 
+            "label": "Pandora", 
+            "attack": "3", 
+            "health": "10", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "description": "At the end of your turn, summon a 3/3 Spirit Wolf with a random ability on a nearby space.", 
+            "faction": "Magmar", 
+            "image": "http://manaspring.ru/deckbuilder/img/sprites/Pandora.png", 
+            "label": "Pandora", 
+            "attack": "3", 
+            "health": "10", 
+            "rarity": "legendary", 
+            "type": "Minion", 
+            "mana_cost": "7"
+        }, 
+        {
+            "avg_hand_size": 3.601272727272727
+        }, 
+        {
+            "lost_mana": 22.166
         }, 
         {
             "manacurve": [

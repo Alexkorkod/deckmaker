@@ -170,12 +170,12 @@ cc_limit = 1000
 backup_ar = list(ar)
 manacurves = [[2,3,4,5,6],[2,3,4,5,6,7,8,9],[2,3,4,5,6,7,8,9,9],[2,3,4,5,6,7,8,9,9,9,9]]
 co = 0
+deck_info = []
 for manacurve in manacurves:
     c = 0
     lost_mana = float('inf')
     hand_size = 0
     best_deck = []
-    deck_info = []
     while c < c_limit:
         random.seed()
         i = 0
@@ -223,9 +223,9 @@ for manacurve in manacurves:
             lost_mana = sum_lost_mana
             hand_size = sum_hand_size
             best_deck = list(backup_deck)
-        best_deck.append({'avg_hand_size':hand_size/(11*1000.0)})
-        best_deck.append({'lost_mana':lost_mana/1000.0})
-        best_deck.append({'manacurve':manacurve})
+    best_deck.append({'avg_hand_size':hand_size/(11*1000.0)})
+    best_deck.append({'lost_mana':lost_mana/1000.0})
+    best_deck.append({'manacurve':manacurve})
     deck_info.append(best_deck)
     co += 1
 json.dump(deck_info,open('best_deck.json','w'),indent=4)

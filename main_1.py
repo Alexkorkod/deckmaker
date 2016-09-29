@@ -7,12 +7,6 @@ sys.setrecursionlimit(10)
 with open('bd.json', 'r') as f:
     read_data = f.read()
 ar = json.loads(read_data)
-
-def outputHand(hand):
-        sys.stdout.write('HAND: ')
-        for card in hand:
-            sys.stdout.write(card['label']+', ')
-        sys.stdout.write('\n')
       
 def findMostExpensiveCardInHand(hand):
     meindex = 0
@@ -137,15 +131,30 @@ def findLeastExpensiveCardCost(hand):
     return min_cost
 
 def makeTurn(deck,hand,mana,replace_count):
-    global sum_lost_mana, cur_mana, field
+    global sum_lost_mana, cur_mana, field, enemy_gen, game_stats_per_mana,played_cards
     cards_to_play = choseCardForTurn(hand,mana)
     mana_left = mana
     if len(cards_to_play) > 0 :
         for played_card in cards_to_play:
             for (i,card) in enumerate(hand):
                 if card == played_card:
-                    hand.pop(i)
-            field.append(played_card)
+                    card_from_hand = hand.pop(i)
+                    if card_from_hand['type'] != 'Spell' and card_from_hand['type'] != 'Artifact':
+                        if card_from_hand['mana_cost'] == '0':
+                            card_from_hand['mana_cost'] = '1'
+                        game_stats_per_mana += (int(card_from_hand['attack'])+int(card_from_hand['health']))/float(card_from_hand['mana_cost'])
+                    played_cards += 1
+                    adj = getAdjForPlacement()
+                    index = random.randint(0,len(adj)-1)
+                    chosen_place = adj[index]
+                    for tile in field:
+                        if tile == chosen_place:
+                            tile['card'] = card_from_hand
+                            break
+            if played_card['attack'] != '':
+                enemy_gen['hp'] -= int(played_card['attack'])
+            else:
+                enemy_gen['hp'] -= 1
             mana_left = mana - int(played_card['mana_cost'])
     elif replace_count < 1:
         hand = replace(deck,hand)
@@ -163,69 +172,147 @@ def endTurn(deck,hand):
     sum_hand_size += len(hand)
     return hand
 
+def generateField():    
+    global field
+    i = 1
+    while i <= 9:
+        j = 1
+        while j <= 5:
+            pos = {'i':i,'j':j}
+            card = {}
+            field.append({'pos':pos,'card':card})
+            j += 1
+        i += 1
 
+def initialPlacement():
+    global field, general
+    fp_gen_pos = {'i':1,'j':3}
+    sp_gen_pos = {'i':9,'j':3}
+    for tile in field:
+        if tile['pos'] == fp_gen_pos:
+            tile['card'] = general
+        if tile['pos'] == sp_gen_pos:
+            tile['card'] = {'attack':2,'health':25,'type':'GENERAL','side':'second'}
+
+def getAdjForPlacement():
+    global field
+    adj = []
+    for tile in field:
+        if tile['card'] != {} and tile['card']['side'] == 'first':
+            cur_adj = getAdj(tile)
+            for place in cur_adj:
+                adj.append(place)  
+    return adj
+
+def getAdj(cur_tile):
+    global field
+    adj = []
+    cur_pos = cur_tile['pos']
+    i = cur_pos['i'] 
+    j = cur_pos['j']
+    range_i = range(i-1,i+2)
+    range_j = range(j-1,j+2)
+    for tile in field:
+        if tile['pos']['i'] in range_i and tile['pos']['j'] in range_j:
+            adj.append(tile)
+    tile = []
+    for (i,tile) in enumerate(adj):
+        if tile['card'] != {}:
+            adj.pop(i)
+    return adj
+
+def placeCard(card):
+    global field
+    
+def moveGeneral():
+    global general
+    adj = getAdjForPlacement()
+    index = random.randint(0,len(adj)-1)
+    chosen_place = adj[index]
+    for tile in field:
+        if tile == chosen_place:
+            tile['card'] = general
+        elif tile['card'] != {} and tile['card']['type'] == 'GENERAL' and tile['card']['side'] == 'first':
+            tile['card'] = {}
 
 c_limit = 1000
 cc_limit = 1000
+if len(sys.argv) > 1:
+    c_limit = int(sys.argv[1])
 backup_ar = list(ar)
-manacurves = [[2,3,4,5,6],[2,3,4,5,6,7,8,9],[2,3,4,5,6,7,8,9,9],[2,3,4,5,6,7,8,9,9,9,9]]
-co = 0
 deck_info = []
-for manacurve in manacurves:
-    c = 0
-    lost_mana = float('inf')
-    hand_size = 0
-    best_deck = []
-    while c < c_limit:
-        random.seed()
-        i = 0
-        backup_deck = []
-        deck = []
-        factions = ['Abyssian','Lyonar','Songhai','Vetruvian','Magmar','Vanar']
-        faction = factions[random.randint(0,len(factions)-1)]
-        ar = list(backup_ar)
-        while i < 39:
-            index = random.randint(0,len(ar)-1)
-            card = ar.pop(index)
-            if card['mana_cost'] != '' and card['faction'] == faction:
-                k = 0
-                limitk = random.randint(2,3)
-                while k < limitk:
-                    deck.append(card)
-                    i += 1
-                    k += 1
-                    if i == 39:
-                        break
-    
-        backup_deck = list(deck)
-    
-        cc = 0
+c = 0
+lost_mana = float('inf')
+hand_size = 0
+best_deck = []
+made_turns = 0
+stats_per_mana = 0
+while c < c_limit:
+    random.seed()
+    i = 0
+    backup_deck = []
+    deck = []
+    factions = ['Abyssian','Lyonar','Songhai','Vetruvian','Magmar','Vanar']
+    faction = factions[random.randint(0,len(factions)-1)]
+    ar = list(backup_ar)
+    while i < 39:
+        index = random.randint(0,len(ar)-1)
+        card = ar.pop(index)
+        if card['mana_cost'] != '' and card['faction'] == faction:
+            k = 0
+            limitk = random.randint(2,3)
+            while k < limitk:
+                card['side'] = 'first'
+                deck.append(card)
+                i += 1
+                k += 1
+                if i == 39:
+                    break
+
+    backup_deck = list(deck)
+
+    cc = 0
+    hand = []
+    field = []
+    sum_lost_mana = 0
+    sum_hand_size = 0
+    sum_stats_per_mana = 0
+    turns = 0
+    while cc < cc_limit:
+    	enemy_gen = {'hp':25}
+        deck = list(backup_deck)
+        simulateFirstDraw(deck,hand)
+        mullForFirstTurn(deck,hand,2,0)
+        general = {'attack':2,'health':25,'type':'GENERAL','side':'first'}
+        generateField()
+        initialPlacement()
+        played_cards = 0
+        game_stats_per_mana = 0
+        mana = 2
+        while enemy_gen['hp'] > 0: 
+            turns += 1
+            cur_mana = mana
+            moveGeneral()
+            makeTurn(deck,hand,mana,0)
+            endTurn(deck,hand)
+            if mana < 9:
+            	mana += 1
+        sum_stats_per_mana += game_stats_per_mana/float(played_cards)
+        cc += 1
         hand = []
         field = []
-        sum_lost_mana = 0
-        sum_hand_size = 0
-        while cc < 1000:
-            deck = list(backup_deck)
-            simulateFirstDraw(deck,hand)
-            mullForFirstTurn(deck,hand,2,0)
-            for mana in manacurve:
-                #outputHand(hand)
-                cur_mana = mana
-                makeTurn(deck,hand,mana,0)
-                endTurn(deck,hand)
-            cc += 1
-            hand = []
-            field = []
-        c += 1
-        sys.stdout.write(str((c*c_limit+co*1000000)/float(4*c_limit*cc_limit/100)) + '% done\r')
-        sys.stdout.flush()
-        if sum_lost_mana < lost_mana and sum_hand_size > hand_size:
-            lost_mana = sum_lost_mana
-            hand_size = sum_hand_size
-            best_deck = list(backup_deck)
-    best_deck.append({'avg_hand_size':hand_size/(11*1000.0)})
-    best_deck.append({'lost_mana':lost_mana/1000.0})
-    best_deck.append({'manacurve':manacurve})
-    deck_info.append(best_deck)
-    co += 1
+    c += 1
+    sys.stdout.write('%(progress)2.2f%% done\r' % {'progress': (c*c_limit)/float(c_limit*c_limit/100)})
+    sys.stdout.flush()
+    if sum_lost_mana < lost_mana and sum_hand_size > hand_size and sum_stats_per_mana > stats_per_mana:
+        stats_per_mana = sum_stats_per_mana
+        lost_mana = sum_lost_mana
+        hand_size = sum_hand_size
+        best_deck = list(backup_deck)
+        made_turns = turns/float(cc_limit)
+best_deck.append({'stats_per_mana':stats_per_mana/1000.0})
+best_deck.append({'turns':made_turns})
+best_deck.append({'avg_hand_size':hand_size/(int(made_turns)*1000.0)})
+best_deck.append({'lost_mana':lost_mana/1000.0})
+deck_info.append(best_deck)
 json.dump(deck_info,open('best_deck.json','w'),indent=4)
